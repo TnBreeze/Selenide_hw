@@ -34,7 +34,7 @@ public class SelenideSearchTest {
                     $("#second").should(visible).click();
                   }
                 }
-        
+                        
                 """));
     }
 }
